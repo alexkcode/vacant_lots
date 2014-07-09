@@ -5,7 +5,7 @@
 ##Data Resources
 * [Smart Chicago Collaborative Property Tools](http://www.smartchicagocollaborative.org/incomplete-list-of-cook-county-property-data-tools/)
 * [WBEZ TUMBLR posts about housing](http://wbezdata.tumblr.com/page/4)
-* [DSSG Lank Bank Effort](https://github.com/dssg/land-bank)
+* [DSSG Land Bank Effort](https://github.com/dssg/land-bank)
 
 ##Classification Ideas
 
